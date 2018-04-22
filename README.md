@@ -76,7 +76,7 @@ Once you have completed preparing your environment, you can build locally and re
 1. Press `Ctrl+C` in the serve terminal to stop the server.
 
 > ***TIP***  
-> Leave the serve terminal open and running. Every time you save changes to a file, it automatically regenerates the site so you can test the output immediately. Changing the `_config.yml` file requires a fresh build. Using the `--incremental` option limits re-builds to posts and pages that have changed.
+> Leave the serving terminal open and running. Every time you save changes to a file, it automatically regenerates the site so you can test the output immediately. Changing the `_config.yml` file requires a fresh build. Using the `--incremental` option limits re-builds to posts and pages that have changed.
 
 ## Build using Docker
 
